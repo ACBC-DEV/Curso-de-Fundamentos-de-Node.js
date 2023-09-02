@@ -1,0 +1,12 @@
+console.group("Con");
+console.log("algo");
+console.error("algo");
+console.warn("algo");
+console.info("algo");
+console.groupEnd("Con");
+console.table([{ a: "a" }, { b: "b" }]);
+console.count("algos");
+console.count("algos");
+console.count("algos");
+console.countReset("algos");
+console.count("algos");
